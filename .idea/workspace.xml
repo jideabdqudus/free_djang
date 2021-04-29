@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99846d22-786b-4370-901b-ce2aaa4e40f7" name="Default Changelist" comment="" />
+    <list default="true" id="99846d22-786b-4370-901b-ce2aaa4e40f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_project/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_project/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_project/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -16,6 +26,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1rijjbPGtfGGOUiq0fBWLSSeF2n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -59,5 +71,16 @@
       <updated>1619465941043</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
