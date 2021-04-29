@@ -13,3 +13,5 @@ class HelloApiView(APIView):
             'Only 4 requests are popular tbh',
             'Django is pretty cool'
         ]
+
+        return Response({'message': 'Hello!', 'an_apiview': an_apiview})
