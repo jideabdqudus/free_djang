@@ -4,6 +4,10 @@
     <list default="true" id="99846d22-786b-4370-901b-ce2aaa4e40f7" name="Default Changelist" comment="+">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/permissions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/views.py" afterDir="false" />
     </list>
@@ -119,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619885128433</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="+">
+      <created>1619886644094</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619886644094</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
