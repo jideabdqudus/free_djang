@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99846d22-786b-4370-901b-ce2aaa4e40f7" name="Default Changelist" comment="+">
+    <list default="true" id="99846d22-786b-4370-901b-ce2aaa4e40f7" name="Default Changelist" comment="API Build">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/permissions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_project/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/profiles_api/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619886644094</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="API Build">
+      <created>1620070805749</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620070805749</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +146,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="+" />
-    <option name="LAST_COMMIT_MESSAGE" value="+" />
+    <MESSAGE value="API Build" />
+    <option name="LAST_COMMIT_MESSAGE" value="API Build" />
   </component>
 </project>
